@@ -1,4 +1,4 @@
-# Summary
+## Summary
 A very simple, fool-proof file downloader written using Java.
 Features:
 * Search file from the internet
@@ -9,7 +9,7 @@ Features:
 Underlying download engine is using Vuze.
 Required Java > 7 to run.
 
-#Screenshot
+## Screenshot
 Search screen: 
 ![alt text](https://raw.githubusercontent.com/thangbn/Direct-File-Downloader/master/screenshot/Search.PNG "Search screen")
 
@@ -19,8 +19,8 @@ Category screen:
 Download list screen: 
 ![alt text](https://raw.githubusercontent.com/thangbn/Direct-File-Downloader/master/screenshot/Download.PNG "Search screen")
 
-#Maintain
+## Maintain
 I'm longer maintain it. Anyone interested to contributed can freely modified: access is open up.
 
-#License 
+## License 
 Under GNU General Public License version 2.0 (GPLv2)
