@@ -1,14 +1,26 @@
 # Direct-File-Downloader
-A simple, fool-proof file downloader written using Java.
+A very simple, fool-proof file downloader written using Java.
 Features:
 * Search file from the internet
-* Download file with progress tracking
+* Download file with progress,speed tracking, pause, stop.
+* Run in background with icon in system tray
 * High speed download
-
+* Cross-platform
 Underlying download engine is using Vuze.
 Required Java > 7 to run.
 
-I'm longer maintain it. Anyone interest to contributed can freely modified.
+#Screenshot
+Search screen: 
+![alt text](https://raw.githubusercontent.com/thangbn/Direct-File-Downloader/master/screenshot/Search.PNG "Search screen")
+
+Category screen: 
+![alt text](https://raw.githubusercontent.com/thangbn/Direct-File-Downloader/master/screenshot/Category.PNG "Search screen")
+
+Download list screen: 
+![alt text](https://raw.githubusercontent.com/thangbn/Direct-File-Downloader/master/screenshot/Download.PNG "Search screen")
+
+#Maintain
+I'm longer maintain it. Anyone interested to contributed can freely modified: access is open up.
 
 #License 
 Under GNU General Public License version 2.0 (GPLv2)
