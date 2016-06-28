@@ -1,12 +1,12 @@
 ## Summary
-A very simple, fool-proof file downloader written using Java.
+A very simple, fool-proof file downloader written in Java.
 Features:
 * Search file from the internet
 * Download file with progress,speed tracking, pause, stop.
 * Run in background with icon in system tray
 * High speed download
 * Cross-platform
-Underlying download engine is using Vuze.
+Underlying download engine use Vuze.
 Required Java > 7 to run.
 
 ## Screenshot
