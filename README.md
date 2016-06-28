@@ -1,4 +1,4 @@
-# Direct-File-Downloader
+# Summary
 A very simple, fool-proof file downloader written using Java.
 Features:
 * Search file from the internet
